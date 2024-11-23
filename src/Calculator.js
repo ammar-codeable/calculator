@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 function Calculator() {
 	const [display, setDisplay] = useState('0'); 
   
